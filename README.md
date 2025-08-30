@@ -17,8 +17,8 @@ Hello there 👋 I'm Ahmed Abdelaziz, the founder of zomzam. I am a backend arch
 ### Skills
 
 #### Programming Languages
-* **Backend:** Python, PHP, Java, GoLang
-* **Frontend:** JavaScript, TypeScript, HTML5, CSS3
+* **Backend:** Python, PHP, Java, GoLang, TypeScript
+* **Frontend:** JavaScript, HTML5, CSS3
 * **Other:** SQL, C/C++, Assembly
 
 #### Frameworks
