@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zomzam-aar/">
+  <a href="https://linkedin.com/in/xamfra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://zomzam.com">
@@ -18,9 +18,6 @@
   </a>
   <a href="https://tryhackme.com/p/ahmed">
     <img src="https://img.shields.io/badge/TryHackMe-red?style=flat-square&logo=tryhackme" alt="TryHackMe">
-  </a>
-  <a href="mailto:contact@zomzam.com">
-    <img src="https://img.shields.io/badge/Email-orange?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
 
