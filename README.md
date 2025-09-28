@@ -49,7 +49,7 @@ I'm a **Senior Software Engineer** with over **12 years** of experience building
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,aws,gcp,docker,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp,docker,git" />
 </p>
 
 ### Programming Languages
