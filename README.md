@@ -2,7 +2,7 @@
   <img src="zomzam.png" width="100%" alt="Ahmed Abdelaziz Profile">
 </p>
 
-<h1 align="center">Ahmed Abdelaziz</h1>
+<h1 align="center">Ahmed Abdelaziz _Reda</h1>
 <h3 align="center">Senior Full-Stack Developer & Security Architect</h3>
 
 <p align="center">
