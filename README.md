@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="xa.png" width="100%" alt="Ahmed Abdelaziz Profile">
+  <img src="Frame 8.png" width="100%" alt="Ahmed Abdelaziz Profile">
 </p>
 
 <h1 align="center">Ahmed Abdelaziz</h1>
