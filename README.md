@@ -6,7 +6,7 @@
 <h3 align="center">Senior Full-Stack Developer & Security Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=12%2B+Years+of+Experience;Backend+Architecture+Expert;Cybersecurity+Specialist;Full-Stack+Developer&font=Inter&weight=600&size=22&letterSpacing=&pause=1000&color=31314A&background=5D5D8C&center=true&vCenter=true&width=440&height=45&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B+Years+of+Experience;Backend+Architecture+Expert;Cybersecurity+Specialist;Full-Stack+Developer&font=Inter&weight=600&size=22&letterSpacing=&pause=1000&color=31314A&background=5D5D8C&center=true&vCenter=true&width=440&height=45&vCenter=true&size=22">
 </p>
 
 <p align="center">
