@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zomzam1.png" width="100%" alt="Ahmed Abdelaziz Profile">
+  <img src="./Github2004.png" width="100%" alt="Ahmed Abdelaziz Profile">
 </p>
 
 <h1 align="center">Ahmed Abdelaziz _Reda</h1>
