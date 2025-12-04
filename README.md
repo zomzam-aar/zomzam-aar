@@ -36,8 +36,17 @@ Whether it's building secure systems or designing beautiful experiences, I'm all
 ## 🛠️ Technologies & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,cpp,figma" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,golang,typescript,javascript,html,css" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,react,threejs,spring" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp,docker,git" />
+</p>
+
 
 ### Programming Languages
 - **Frontend:** HTML5, CSS3, JavaScript
