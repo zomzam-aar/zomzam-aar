@@ -45,13 +45,13 @@ Whether it's building secure systems or designing beautiful experiences, I'm all
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp,docker,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp,docker,git,go" />
 </p>
 </p>
 
 ### Programming Languages
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP, Python, C/C++
+- **Backend:** PHP, Python, GO, Java, C/C++
 - **Design:** Figma (UI/UX Design)
 
 ### Core Competencies
