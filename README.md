@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Ahmed Abdelaziz Hanafy (Sanfor)</h1>
-<h3 align="center">Software Developer / Technical Operations Specialist</h3>
+<h3 align="center">Software Developer / Backend Engineer / Technical Operations Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=1000&color=FFFFFF&background=31314A&center=true&vCenter=true&width=435&lines=Software+Developer;Technical+Operations+Specialist;UI%2FUX+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=1000&color=FFFFFF&background=31314A&center=true&vCenter=true&width=530&lines=Software+Developer;Backend+Engineer;Technical+Operations+Specialist;Workflow+Automation">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Website-green?style=flat-square&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://github.com/zomzam-aar/zomzam-aar/raw/main/Ahmed%20Abdelaziz%20Hanafy%20CV.pdf">
+  <a href="https://github.com/zomzam-aar/zomzam-aar/raw/main/Ahmed_HBS_cv.pdf">
     <img src="https://img.shields.io/badge/Download_CV-red?style=flat-square&logo=adobe-acrobat-reader" alt="Download CV">
   </a>
 </p>
@@ -25,68 +25,65 @@
 
 ## 👋 About Me
 
-Hey! I'm **Ahmed Abdelaziz**, but you can call me **Sanfor**. I'm the founder of **zomzam**, where we help small and mid-sized businesses protect themselves from security threats and automate their workflows.
+Hey! I'm **Ahmed Abdelaziz**, also known as **Sanfor**. I'm the founder of **zomzam**, and a versatile **Software Developer and Technical Operations Specialist**, focusing on full-stack custom application development, backend systems architecture, and intelligent workflow automation.
 
-I'm a Software Developer with hands-on experience in **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, and **C/C++**. But I don't just code—I'm also deeply involved in the design process, crafting intuitive **UI/UX in Figma** for every project. Plus, I love to draw, which gives me a unique perspective when building user-friendly interfaces.
-
-Whether it's building secure systems or designing beautiful experiences, I'm all about helping businesses work smarter and safer.
+I specialize in overhauling legacy systems, deploying API-centric SaaS environments, and engineering critical low-level network communications (like WebSockets and TCP). Beyond backend optimization, I have strong experience in UI/UX design with Figma, which gives me a holistic perspective on building products that are fast, secure, and incredibly user-friendly.
 
 ---
 
 ## 🛠️ Technologies & Skills
 
 <p align="center">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,java,golang,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,golang,html,css" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,react,threejs,spring,figma" />
+  <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,react,mysql,postgres,mongodb" alt="Frameworks and Databases" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp,docker,git,go" />
-</p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,postman,figma,vscode,linux" alt="Tools and Cloud" />
 </p>
 
 ### Programming Languages
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP, Python, GO, Java, C/C++
-- **Design:** Figma (UI/UX Design)
+- **Backend:** TypeScript, Python, PHP, Java, GoLang, SQL
+- **Frontend:** JavaScript, HTML5, CSS3
 
-### Core Competencies
-- **Web Development:** Full-stack web application development
-- **Security Solutions:** Threat protection and secure system design
-- **Workflow Automation:** Business process automation
-- **UI/UX Design:** User interface and experience design
-- **Creative Design:** Visual design and illustration
+### Frameworks & SDKs
+- Laravel, Django, React, Node.js, Three.js, Chart.js, Android SDK, P5.js, Rive
+
+### Databases & Cloud
+- MySQL, PostgreSQL, MongoDB, AWS, Google Cloud Platform (GCP), Digital Ocean
+
+### APIs & Protocols
+- RESTful APIs, WebSockets, Webhooks, Server-Sent Events (SSE), OAuth, HTTPS, TCP/IP, MVC Pattern
 
 ---
 
 ## 💼 Professional Experience
 
-### **Business Owner & Software Developer** @ zomzam
-**Alexandria, Egypt • January 2024 - Present (2 years)**
+### **Backend Engineer (Part-Time)** @ SkyLimit LLC
+**Remote (USA) • Mar 2022 - Present**
+- Architected and spearheaded the full backend migration of a core company application from a legacy system, establishing a highly scalable and maintainable infrastructure.
+- Integrated and managed business-critical third-party APIs (Plivo, Twilio, Stripe) for automated communications, secure payments, and subscription lifecycles.
+- Developed a bespoke CRM and lead management system with an optimized database schema to automate operational workflows.
+- Resolved backend bottlenecks within Text-to-Speech (TTS) services by analyzing API payloads and optimizing pipeline logic.
+- Collaborated with client leadership to establish strategic technical requirements and roadmaps.
 
-- Founded zomzam to help small and mid-sized businesses with security and automation
-- Develop secure systems and implement security threat protection measures
-- Design and implement workflow automation solutions for business efficiency
-- Create intuitive UI/UX designs in Figma for all projects
-
-### **Software Developer** @ SkyLimit LLC
-**Sacramento, California, United States (Remote) • December 2022 - Present (3 years 1 month)**
-
-- Develop software solutions for client projects
-- Implement frontend and backend features using modern technologies
-- Collaborate with team on technical operations and development tasks
+### **PHP Backend Developer / Network Programmer** @ Company for Tech
+**Remote (Egypt) • Feb 2024 - Sep 2024**
+- Engineered a custom PHP WebSocket server from scratch to facilitate real-time, low-latency communication for a high-traffic application.
+- Independently managed low-level TCP socket connections and implemented the WebSocket protocol (RFC 6455) without standard third-party proxy libraries.
+- Built robust logic for payload fragmentation, tracking message framing, and accurately reassembling fragmented data streams.
 
 ---
 
 ## 🎓 Education
 
-**Aboukir High Institutes**  
-Bachelor's degree, Business Information System  
-📅 May 2023 - July 2027
+**Alexandria University**  
+Bachelor's Degree in Business Information Systems  
+📅 Expected Aug 2027  
+*Key Focus:* Database Systems, System Architecture, Business Solutions, and Workflow Automation.
 
 ---
 
@@ -106,16 +103,6 @@ Bachelor's degree, Business Information System
 
 ---
 
-## 🎯 What I Bring
-
-- **Full-Stack Development:** End-to-end web application development with modern technologies
-- **Security Focus:** Building secure systems that protect businesses from threats
-- **Design Mindset:** Combining development skills with UI/UX design expertise
-- **Creative Approach:** Leveraging artistic abilities to create user-friendly interfaces
-- **Business Automation:** Streamlining workflows to help businesses work smarter
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -132,11 +119,11 @@ Bachelor's degree, Business Information System
   <a href="https://zomzam.com">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://github.com/zomzam-aar/zomzam-aar/raw/main/Ahmed%20Abdelaziz%20Hanafy%20CV.pdf">
+  <a href="https://github.com/zomzam-aar/zomzam-aar/raw/main/Ahmed_HBS_cv.pdf">
     <img src="https://img.shields.io/badge/Download_CV-DC2626?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
   </a>
 </p>
 
 <p align="center">
-  <em>"Building secure systems and beautiful experiences, one line of code at a time."</em>
+  <em>"Building resilient backend systems and beautiful experiences, one line of code at a time."</em>
 </p>
